@@ -1,0 +1,35 @@
+* {
+    padding: 0;
+    margin: 0;
+    background-color: blanchedalmond;
+}
+
+body {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.title {
+    margin: 50px;
+}
+
+.converter {
+    display: flex;
+    justify-content: space-evenly;
+    margin: auto;
+    width: 20%;
+
+}
+
+.Chart {
+    margin-top: 50px;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+table,th,td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 30px;
+  }
